@@ -29,7 +29,7 @@ const getUser = (id) => {
   }
 };
 
-app.get('/api/teacher/:teacher', (req, res) => {
+app.get('/api/group/:teacher', (req, res) => {
   try {
     res.status(200).send(getStudents(req.params.teacher));
   } catch (e) {
