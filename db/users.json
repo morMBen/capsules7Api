@@ -1,0 +1,422 @@
+[
+  {
+    "id": "001",
+    "gender": "female",
+    "firstName": "דיאנה",
+    "lastName": "בירובין",
+    "hobby": "לישון",
+    "age": 32,
+    "city": "עכו",
+    "capsule": 1
+  },
+  {
+    "id": "002",
+    "gender": "male",
+    "firstName": "דימה ",
+    "lastName": "דניסיוק",
+    "hobby": "אוהב לטוס במחשבות",
+    "age": 17,
+    "city": "עכו",
+    "capsule": 1
+  },
+  {
+    "id": "003",
+    "gender": "male",
+    "firstName": "גודה",
+    "lastName": "טארק",
+    "hobby": "לטייל",
+    "age": 32,
+    "city": "עכו",
+    "capsule": 1
+  },
+  {
+    "id": "004",
+    "gender": "male",
+    "firstName": "מתן",
+    "lastName": "וויס",
+    "hobby": "ספורט",
+    "age": 28,
+    "city": "נוף הגליל",
+    "capsule": 1
+  },
+  {
+    "id": "005",
+    "gender": "female",
+    "firstName": "מור",
+    "lastName": "מנשה",
+    "hobby": "לקרוא",
+    "age": 31,
+    "city": "תל-אביב",
+    "capsule": 2
+  },
+  {
+    "id": "006",
+    "gender": "male",
+    "firstName": "משה",
+    "lastName": "חדד",
+    "hobby": "חדר כושר",
+    "age": 24,
+    "city": "רמלה",
+    "capsule": 2
+  },
+  {
+    "id": "007",
+    "gender": "male",
+    "firstName": "אור",
+    "lastName": "טובול",
+    "hobby": "לקרוא",
+    "age": 29,
+    "city": "קריית מוצקין",
+    "capsule": 2
+  },
+  {
+    "id": "008",
+    "gender": "female",
+    "firstName": "רוית",
+    "lastName": "זינגרמן",
+    "hobby": "גלישה",
+    "age": 25,
+    "city": "תל-אביב",
+    "capsule": 2
+  },
+  {
+    "id": "009",
+    "gender": "male",
+    "firstName": "סובחי",
+    "lastName": "מנסור",
+    "hobby": "פסנתר",
+    "age": 29,
+    "city": "טירה",
+    "capsule": 3
+  },
+  {
+    "id": "010",
+    "gender": "male",
+    "firstName": "יואב",
+    "lastName": "עמר",
+    "hobby": "לישון",
+    "age": 22,
+    "city": "אשקלון",
+    "capsule": 3
+  },
+  {
+    "id": "011",
+    "gender": "male",
+    "firstName": "אייל",
+    "lastName": "סיני",
+    "hobby": "לקרוא",
+    "age": 22,
+    "city": "הרצלייה",
+    "capsule": 3
+  },
+  {
+    "id": "012",
+    "gender": "male",
+    "firstName": "שניר",
+    "lastName": "גניש",
+    "hobby": "מוסיקה",
+    "age": 23,
+    "city": "אשקלון",
+    "capsule": 3
+  },
+  {
+    "id": "013",
+    "gender": "male",
+    "firstName": "שניר",
+    "lastName": "גניש",
+    "hobby": "מוסיקה",
+    "age": 23,
+    "city": "אשקלון",
+    "capsule": 4
+  },
+  {
+    "id": "014",
+    "gender": "male",
+    "firstName": "אבישי",
+    "lastName": "פרץ",
+    "hobby": "מירוצי אופנועים",
+    "age": 29,
+    "city": "רמת-גן",
+    "capsule": 4
+  },
+  {
+    "id": "015",
+    "gender": "male",
+    "firstName": "יניר",
+    "lastName": "יצחק",
+    "hobby": "לטייל",
+    "age": 28,
+    "city": "צפת",
+    "capsule": 4
+  },
+  {
+    "id": "016",
+    "gender": "male",
+    "firstName": "סובחי",
+    "lastName": "אגברייה",
+    "hobby": "לטייל",
+    "age": 28,
+    "city": "אום אלפחם",
+    "capsule": 5
+  },
+  {
+    "id": "017",
+    "gender": "male",
+    "firstName": "אור",
+    "lastName": "אליהו",
+    "hobby": "לטייל",
+    "age": 27,
+    "city": "תל-אביב",
+    "capsule": 5
+  },
+  {
+    "id": "018",
+    "gender": "male",
+    "firstName": "לוי",
+    "lastName": "אפרים",
+    "hobby": "לטייל",
+    "age": 22,
+    "city": "תל-אביב",
+    "capsule": 5
+  },
+  {
+    "firstName": " נור",
+    "lastName": "טאה",
+    "hobby": "digital marketing",
+    "age": "21",
+    "city": "Jerusalem",
+    "gender": "female",
+    "id": "1102",
+    "capsule": 1
+  },
+  {
+    "firstName": " שחאדה",
+    "lastName": "סרחאן",
+    "hobby": "Surfing",
+    "age": "33",
+    "city": "Nazareth",
+    "gender": "male",
+    "id": "2102",
+    "capsule": 1
+  },
+  {
+    "firstName": " סאמר",
+    "lastName": "טאהא",
+    "hobby": "Hunting treasures",
+    "age": "88",
+    "city": "Nazareth",
+    "gender": "male",
+    "id": "3102",
+    "capsule": 1
+  },
+  {
+    "firstName": " כרם",
+    "lastName": "עיסא",
+    "hobby": "Drones",
+    "age": "26",
+    "city": "Tamra",
+    "gender": "male",
+    "id": "4102",
+    "capsule": 1
+  },
+  {
+    "firstName": " באסל",
+    "lastName": "אלטורי",
+    "hobby": "Teaching",
+    "age": "23",
+    "city": "Rahat",
+    "gender": "male",
+    "id": "5102",
+    "capsule": 2
+  },
+  {
+    "firstName": " עבד",
+    "lastName": "חלף",
+    "hobby": "Coding",
+    "age": "25",
+    "city": "Milky way",
+    "gender": "male",
+    "id": "6102",
+    "capsule": 2
+  },
+  {
+    "firstName": " תאופיק",
+    "lastName": "סליבא",
+    "hobby": "Playing guitar",
+    "age": "31",
+    "city": "Shefar-am",
+    "gender": "male",
+    "id": "7102",
+    "capsule": 2
+  },
+  {
+    "firstName": " שיר",
+    "lastName": "זהבי",
+    "hobby": "Dancing",
+    "age": "27",
+    "city": "Givaat Brenner",
+    "gender": "female",
+    "id": "8102",
+    "capsule": 2
+  },
+  {
+    "firstName": " ליאת",
+    "lastName": "פרדו גרינבאום",
+    "hobby": "Drawing",
+    "age": "34",
+    "city": "Pardes Hana",
+    "gender": "female",
+    "id": "9102",
+    "capsule": 3
+  },
+  {
+    "firstName": " שרונה",
+    "lastName": "טוקטלי",
+    "hobby": "She codes",
+    "age": "31",
+    "city": "Netanya",
+    "gender": "female",
+    "id": "1002",
+    "capsule": 3
+  },
+  {
+    "firstName": " שירה ",
+    "lastName": "אוחנה",
+    "hobby": "Playing games",
+    "age": "29",
+    "city": "Tel Aviv",
+    "gender": "female",
+    "id": "1101",
+    "capsule": 3
+  },
+  {
+    "firstName": " עדן",
+    "lastName": "קריכלי",
+    "hobby": "Graphic Design",
+    "age": "86",
+    "city": "Or Yehuda",
+    "gender": "female",
+    "id": "1201",
+    "capsule": 3
+  },
+  {
+    "firstName": " כתר",
+    "lastName": "פרי",
+    "hobby": "Reading dictionaries",
+    "age": "34",
+    "city": "Bitkha",
+    "gender": "female",
+    "id": "1301",
+    "capsule": 4
+  },
+  {
+    "firstName": " בנימין",
+    "lastName": "רוטלוי",
+    "hobby": "Soccer",
+    "age": "25",
+    "city": "Bnei Brak",
+    "gender": "male",
+    "id": "1401",
+    "capsule": 4
+  },
+  {
+    "firstName": " שגב",
+    "lastName": "קליין",
+    "hobby": "Coding",
+    "age": "21",
+    "city": "Ahuzat Barak",
+    "gender": "male",
+    "id": "1501",
+    "capsule": 4
+  },
+  {
+    "firstName": " אופיר",
+    "lastName": "כהן",
+    "hobby": "Swimming",
+    "age": "30",
+    "city": "Ashkelon",
+    "gender": "male",
+    "id": "1601",
+    "capsule": 4
+  },
+  {
+    "firstName": " אמיר",
+    "lastName": "גלבוע",
+    "hobby": "Trips abroad",
+    "age": "45",
+    "city": "Kissufim",
+    "gender": "male",
+    "id": "1701",
+    "capsule": 5
+  },
+  {
+    "firstName": " גיל",
+    "lastName": "בן נתנאל",
+    "hobby": "Go to the beach",
+    "age": "28",
+    "city": "Tel Aviv",
+    "gender": "male",
+    "id": "1801",
+    "capsule": 6
+  },
+  {
+    "firstName": " עופר",
+    "lastName": "טאובר",
+    "hobby": "Scuba dive",
+    "age": "34",
+    "city": "Tel Aviv",
+    "gender": "male",
+    "id": "1901",
+    "capsule": 5
+  },
+  {
+    "firstName": " חיים",
+    "lastName": "אקוקה",
+    "hobby": "Coding",
+    "age": "25",
+    "city": "Petah Tikva",
+    "gender": "male",
+    "id": "2001",
+    "capsule": 5
+  },
+  {
+    "firstName": " שאול",
+    "lastName": "שרעבי",
+    "hobby": "Coding",
+    "age": "42",
+    "city": "Jerusalem",
+    "gender": "male",
+    "id": "2101",
+    "capsule": 5
+  },
+  {
+    "firstName": " אריה",
+    "lastName": "וולף",
+    "hobby": "Coding",
+    "age": "33",
+    "city": "Beit Shean",
+    "gender": "male",
+    "id": "2201",
+    "capsule": 6
+  },
+  {
+    "firstName": " בנימין",
+    "lastName": "חסן",
+    "hobby": "Trumping",
+    "age": "83",
+    "city": "Eilat",
+    "gender": "male",
+    "id": "2301",
+    "capsule": 6
+  },
+  {
+    "firstName": " מיכאל ",
+    "lastName": "וזדנב",
+    "hobby": "Climbing",
+    "age": "23",
+    "city": "Be'er sheva",
+    "gender": "male",
+    "id": "2401",
+    "capsule": 6
+  }
+]
