@@ -75,7 +75,7 @@ const getCarImage = (brand, model) => {
     return e.message;
   }
 };
-app.get('/api/carMarket/:brand/:model', (req, res) => {
+app.get('/api/carMarket/img/:brand/:model', (req, res) => {
   const brand = req.params.brand.toLocaleLowerCase();
   const model = req.params.model.toLocaleLowerCase();
   try {
