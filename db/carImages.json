@@ -1,0 +1,28 @@
+{
+  "bmw_x3": "https://media.ed.edmunds-media.com/bmw/x3/2022/oem/2022_bmw_x3_4dr-suv_xdrive30i_fq_oem_1_1600.jpg",
+  "bmw_x5": "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-x5-front-1660572027.jpg",
+  "bmw_x6": "https://www.cmotors.co.il/wp-content/uploads/2018/08/BMW-X6-2020-800-14.jpg",
+  "bmw_z4": "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-z4-108-1663892711.jpg?crop=0.641xw:0.721xh;0.280xw,0.180xh&resize=640:*",
+  "bmw_3": "https://upload.wikimedia.org/wikipedia/commons/8/8d/BMW_G20_IMG_0167.jpg",
+  "bmw_8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzU_IUNWPmodCipVTJaKpr2sUOo2p8Jfhnb5N0jWZdiJOfbR2fhZujvdmwLxELwgtIQDI&usqp=CAU",
+
+  "toyota_landCruiser": "https://scene7.toyota.eu/is/image/toyotaeurope/header_tcm-3044-2077198:Medium-Landscape?ts=1666314468610",
+  "toyota_corolla": "https://carsales.pxcrush.net/car/spec/S0009MT4.jpg?pxc_method=gravityfill&pxc_bgtype=self&pxc_size=720,480&watermark=1958805666",
+  "toyota_hilux": "https://mediacloud.carbuyer.co.uk/image/private/s--9UZmxy5w--/v1607339906/autoexpress/2020/12/Toyota%20Hilux%20UK%202020.jpg",
+  "toyota_prius": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/cms/uploads/3pDBcJHRR86xf97Wujmn",
+  "toyota_highlander": "https://scene7.toyota.eu/is/image/toyotaeurope/toyota-highlander-2020-gallery-006-full_tcm-3123-2110222?qlt=80&wid=1280&fit=fit,1&ts=1666779549254",
+
+  "ford_350": "https://www.motortrend.com/uploads/2021/10/2022-Ford-F-350-Super-Duty-King-Ranch-Tremor-front-three-quarter-1.jpg?fit=around%7C875:492.1875",
+  "ford_250": "https://images.squarespace-cdn.com/content/v1/603f9fc6a2120f0be59de63c/5e90d76b-5dad-4a4e-9476-7ad56e1e7cbc/BW21_Ford+F250_Mobile.jpg?format=2500w",
+  "ford_explorer": "https://www.ford.co.il/Uploads//ProductPage/Section_360/Ford_Explorer/%D7%9C%D7%91%D7%9F/5.png?width=750",
+  "ford_focus": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9YYYhQ18Ga-HBB-LhLlbmc7y17scfViDP_rE1nNP&s",
+
+  "alfaRomeo_spider": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1652960037/autoexpress/2022/05/Alfa%20Romeo%20Duetto%20Spider%20-%20watermarked.jpg",
+  "alfaRomeo_stelvio": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg",
+  "julia": "https://www.alfaromeousa.com/content/dam/alfausa/2022/giulia/desktop/AR-Giulia-NLE-Desktop.jpg",
+  "alfaRomeo_166": "https://upload.wikimedia.org/wikipedia/commons/1/1c/2004_Alfa_Romeo_166_facelift.JPG",
+
+  "chevrolet_impala": "https://carsalesbase.com/wp-content/uploads/2015/10/Chevrolet_Impala-US-car-sales-statistics.png",
+  "chevrolet_malibu": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2023/cars/malibu/mov/01-images/2023-malibu-mov-designheader.jpg?imwidth=960",
+  "chevrolet_savannah": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_ipD32yL9Br8gOfJ_haQ5KieL8uavIHNlZeKME-RY8nw1wLeQ7EQO_C5i63X1e6edMI&usqp=CAU"
+}

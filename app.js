@@ -16,7 +16,6 @@ const getStudents = (teacher) => {
     return [];
   }
 };
-console.log('brr');
 const getUser = (id) => {
   try {
     const dataBuffer = fs.readFileSync(`./db/users.json`);
@@ -36,9 +35,51 @@ app.get('/api/group/:teacher', (req, res) => {
     res.status(400).send({ error: e.message });
   }
 });
+
 app.get('/api/user/:id', (req, res) => {
   try {
     res.status(200).send(getUser(req.params.id));
+  } catch (e) {
+    res.status(400).send({ error: e.message });
+  }
+});
+
+const getCarMarket = (num) => {
+  try {
+    const dataBuffer = fs.readFileSync(`./db/carsObj${num}.json`);
+    console.log('dataBuffer');
+    const dataJSON = dataBuffer.toString();
+    return JSON.parse(dataJSON);
+  } catch (e) {
+    return [];
+  }
+};
+//! Car object 1 | 2
+app.get('/api/carMarket/:num', (req, res) => {
+  try {
+    res.status(200).send(getCarMarket(req.params.num));
+  } catch (e) {
+    res.status(400).send({ error: e.message });
+  }
+});
+
+const getCarImage = (brand, model) => {
+  try {
+    const dataBuffer = fs.readFileSync(`./db/carImages.json`);
+    const dataJSON = dataBuffer.toString();
+    const dataObj = JSON.parse(dataJSON);
+    const searchField = `${brand}_${model}`;
+    const res = { brand, model, image: dataObj[searchField] };
+    return dataObj[searchField] ? res : Error('No image for that model name');
+  } catch (e) {
+    return e.message;
+  }
+};
+app.get('/api/carMarket/:brand/:model', (req, res) => {
+  const brand = req.params.brand.toLocaleLowerCase();
+  const model = req.params.model.toLocaleLowerCase();
+  try {
+    res.status(200).send(getCarImage(brand, model));
   } catch (e) {
     res.status(400).send({ error: e.message });
   }

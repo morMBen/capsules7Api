@@ -1,0 +1,600 @@
+{
+  "sellers": [
+    {
+      "agencyName": "Auto Bob",
+      "cash": 364541,
+      "credit": 40000,
+      "agencyId": "3J2r3Kglvs",
+      "cars": {
+        "Bmw": [],
+        "Mazda": [
+          {
+            "name": "2",
+            "year": 2013,
+            "price": 78000,
+            "carNumber": "CLW5900",
+            "ownerId": "3J2r3Kglvs"
+          },
+          {
+            "name": "6",
+            "year": 2014,
+            "price": 47100,
+            "carNumber": "B42BZ",
+            "ownerId": "3J2r3Kglvs"
+          },
+          {
+            "name": "3",
+            "year": 2019,
+            "price": 96900,
+            "carNumber": "5KYR161",
+            "ownerId": "3J2r3Kglvs"
+          },
+          {
+            "name": "3",
+            "year": 2010,
+            "price": 25100,
+            "carNumber": "CJC7857",
+            "ownerId": "3J2r3Kglvs"
+          }
+        ],
+        "Toyota": [
+          {
+            "name": "Land Cruiser",
+            "year": 2005,
+            "price": 80540,
+            "carNumber": "KQZE87",
+            "ownerId": "3J2r3Kglvs"
+          },
+          {
+            "name": "Corolla",
+            "year": 2019,
+            "price": 109100,
+            "carNumber": "8ETX406",
+            "ownerId": "3J2r3Kglvs"
+          },
+          {
+            "name": "Hilux",
+            "year": 2019,
+            "price": 204000,
+            "carNumber": "8EDX490",
+            "ownerId": "3J2r3Kglvs"
+          }
+        ],
+        "Ford": [
+          {
+            "name": "F250",
+            "year": 2020,
+            "price": 198500,
+            "carNumber": "19936H",
+            "ownerId": "3J2r3Kglvs"
+          },
+          {
+            "name": "Explorer",
+            "year": 2020,
+            "price": 265200,
+            "carNumber": "8CP265",
+            "ownerId": "3J2r3Kglvs"
+          }
+        ],
+        "Alpha_Romeo": [
+          {
+            "name": "Spider",
+            "year": 2011,
+            "price": 75405,
+            "carNumber": "8CP265",
+            "ownerId": "3J2r3Kglvs"
+          },
+          {
+            "name": "166",
+            "year": 2002,
+            "price": 12400,
+            "carNumber": "RDC7918",
+            "ownerId": "3J2r3Kglvs"
+          }
+        ],
+        "Chevrolet": [
+          {
+            "name": "Impala",
+            "year": 2016,
+            "price": 65042,
+            "carNumber": "6GCN910",
+            "ownerId": "3J2r3Kglvs"
+          },
+          {
+            "name": "Savannah",
+            "year": 2016,
+            "price": 76505,
+            "carNumber": "7JFE449",
+            "ownerId": "3J2r3Kglvs"
+          }
+        ]
+      }
+    },
+    {
+      "agencyName": "Around The Wheals",
+      "cash": 302502,
+      "credit": 150000,
+      "agencyId": "SBbGQxdxBw",
+      "cars": {
+        "Bmw": [],
+        "Mazda": [
+          {
+            "name": "3",
+            "year": 2020,
+            "price": 72500,
+            "carNumber": "8T43849",
+            "ownerId": "SBbGQxdxBw"
+          },
+          {
+            "name": "6",
+            "year": 2010,
+            "price": 19000,
+            "carNumber": "JSC1960",
+            "ownerId": "SBbGQxdxBw"
+          },
+          {
+            "name": "3",
+            "year": 2019,
+            "price": 88100,
+            "carNumber": "FLF7830",
+            "ownerId": "SBbGQxdxBw"
+          },
+          {
+            "name": "2",
+            "year": 2020,
+            "price": 89100,
+            "carNumber": "BMC6037",
+            "ownerId": "SBbGQxdxBw"
+          },
+          {
+            "name": "3",
+            "year": 2012,
+            "price": 12400,
+            "carNumber": "2A66A7",
+            "ownerId": "SBbGQxdxBw"
+          }
+        ],
+        "Toyota": [
+          {
+            "name": "Prius",
+            "year": 2011,
+            "price": 38520,
+            "carNumber": "AEV9575",
+            "ownerId": "SBbGQxdxBw"
+          },
+          {
+            "name": "Land Cruiser",
+            "year": 2019,
+            "price": 290040,
+            "carNumber": "8GB557",
+            "ownerId": "SBbGQxdxBw"
+          },
+          {
+            "name": "Hilux",
+            "year": 2020,
+            "price": 215700,
+            "carNumber": "587E14",
+            "ownerId": "SBbGQxdxBw"
+          },
+          {
+            "name": "Hilux",
+            "year": 2013,
+            "price": 178506,
+            "carNumber": "6YKX608",
+            "ownerId": "SBbGQxdxBw"
+          },
+          {
+            "name": "Corolla",
+            "year": 2002,
+            "price": 8504,
+            "carNumber": "LHL4389",
+            "ownerId": "SBbGQxdxBw"
+          }
+        ],
+        "Chevrolet": [
+          {
+            "name": "Impala",
+            "year": 2005,
+            "price": 9320,
+            "carNumber": "LFV4132",
+            "ownerId": "SBbGQxdxBw"
+          },
+          {
+            "name": "Malibu",
+            "year": 2002,
+            "price": 4502,
+            "carNumber": "028D62",
+            "ownerId": "SBbGQxdxBw"
+          }
+        ],
+        "Ford": [],
+        "Alpha_Romeo": []
+      }
+    },
+    {
+      "agencyName": "Machina",
+      "cash": 72450,
+      "credit": 50000,
+      "agencyId": "FzQQCQhY7x",
+      "cars": {
+        "Bmw": [
+          {
+            "name": "7",
+            "year": 1999,
+            "price": 24700,
+            "carNumber": "7JNG829",
+            "ownerId": "FzQQCQhY7x"
+          },
+          {
+            "name": "3",
+            "year": 2008,
+            "price": 54000,
+            "carNumber": "LFJ2718",
+            "ownerId": "FzQQCQhY7x"
+          }
+        ],
+        "Toyota": [
+          {
+            "name": "Prius",
+            "year": 2019,
+            "price": 124050,
+            "carNumber": "7Y03698",
+            "ownerId": "FzQQCQhY7x"
+          },
+          {
+            "name": "Hilux",
+            "year": 1996,
+            "price": 11540,
+            "carNumber": "1345564",
+            "ownerId": "FzQQCQhY7x"
+          }
+        ],
+        "Ford": [],
+        "Chevrolet": [],
+        "Alpha_Romeo": []
+      }
+    },
+    {
+      "agencyName": "The Brothers Cars",
+      "cash": 456920,
+      "credit": 120000,
+      "agencyId": "giv29Ezmmx",
+      "cars": {
+        "Bmw": [],
+        "Mazda": [
+          {
+            "name": "6",
+            "year": 2018,
+            "price": 128100,
+            "carNumber": "HVM2624",
+            "ownerId": "giv29Ezmmx"
+          },
+          {
+            "name": "3",
+            "year": 2017,
+            "price": 58000,
+            "carNumber": "0J19X0",
+            "ownerId": "giv29Ezmmx"
+          }
+        ],
+        "Toyota": [
+          {
+            "name": "Prius",
+            "year": 2017,
+            "price": 101542,
+            "carNumber": "HHL9790",
+            "ownerId": "giv29Ezmmx"
+          },
+          {
+            "name": "Highlander",
+            "year": 2017,
+            "price": 202540,
+            "carNumber": "SC40401",
+            "ownerId": "giv29Ezmmx"
+          },
+          {
+            "name": "Corolla",
+            "year": 1996,
+            "price": 5420,
+            "carNumber": "GWG601",
+            "ownerId": "giv29Ezmmx"
+          },
+          {
+            "name": "Corolla",
+            "year": 2012,
+            "price": 40570,
+            "carNumber": "042YRX",
+            "ownerId": "giv29Ezmmx"
+          }
+        ],
+        "Ford": [
+          {
+            "name": "Explorer",
+            "year": 2014,
+            "price": 127502,
+            "carNumber": "8BTM434",
+            "ownerId": "giv29Ezmmx"
+          },
+          {
+            "name": "F350",
+            "year": 2012,
+            "price": 54250,
+            "carNumber": "7NSW700",
+            "ownerId": "giv29Ezmmx"
+          }
+        ],
+        "Chevrolet": [
+          {
+            "name": "Savannah",
+            "year": 2010,
+            "price": 36504,
+            "carNumber": "4214866",
+            "ownerId": "giv29Ezmmx"
+          },
+          {
+            "name": "Malibu",
+            "year": 2009,
+            "price": 19585,
+            "carNumber": "7ENU172",
+            "ownerId": "giv29Ezmmx"
+          }
+        ],
+        "Alpha_Romeo": []
+      }
+    },
+    {
+      "agencyName": "Dorsi Road",
+      "cash": 965000,
+      "credit": 200000,
+      "agencyId": "_vwOlUIjrz",
+
+      "Bmw": [],
+      "Mazda": [
+        {
+          "name": "3",
+          "year": 2013,
+          "price": 137000,
+          "carNumber": "BWFD26",
+          "ownerId": "_vwOlUIjrz"
+        },
+        {
+          "name": "X6",
+          "year": 2020,
+          "price": 966500,
+          "carNumber": "KMJ3522",
+          "ownerId": "_vwOlUIjrz"
+        }
+      ],
+      "Toyota": [
+        {
+          "name": "Land Cruiser",
+          "year": 2020,
+          "price": 336300,
+          "carNumber": "LCJ1878",
+          "ownerId": "_vwOlUIjrz"
+        },
+        {
+          "name": "Hilux",
+          "year": 2005,
+          "price": 35005,
+          "carNumber": "Z57CBY",
+          "ownerId": "_vwOlUIjrz"
+        },
+        {
+          "name": "Corolla",
+          "year": 2020,
+          "price": 111900,
+          "carNumber": "X70LFF",
+          "ownerId": "_vwOlUIjrz"
+        }
+      ],
+      "Ford": [
+        {
+          "name": "Focus",
+          "year": 2020,
+          "price": 98200,
+          "carNumber": "DR61YJ",
+          "ownerId": "_vwOlUIjrz"
+        },
+        {
+          "name": "Focus",
+          "year": 2005,
+          "price": 6502,
+          "carNumber": "DVN4897",
+          "ownerId": "_vwOlUIjrz"
+        }
+      ],
+      "Alpha_Romeo": [
+        {
+          "name": "Romeo Julia",
+          "year": 2020,
+          "price": 275406,
+          "carNumber": "KFHD59",
+          "ownerId": "_vwOlUIjrz"
+        },
+        {
+          "name": "Romeo Stelvio",
+          "year": 2019,
+          "price": 215403,
+          "carNumber": "BK99927",
+          "ownerId": "_vwOlUIjrz"
+        }
+      ],
+      "Chevrolet": [
+        {
+          "name": "Traverse",
+          "year": 2020,
+          "price": 201102,
+          "carNumber": "HST7H",
+          "ownerId": "_vwOlUIjrz"
+        },
+        {
+          "name": "Impala",
+          "year": 2019,
+          "price": 165041,
+          "carNumber": "HTM-9239",
+          "ownerId": "_vwOlUIjrz"
+        },
+        {
+          "name": "Malibu",
+          "year": 2017,
+          "price": 75405,
+          "carNumber": "224256",
+          "ownerId": "_vwOlUIjrz"
+        }
+      ]
+    }
+  ],
+  "customers": [
+    {
+      "name": "Laurence Schultz",
+      "id": "wZ-iazIw9a",
+      "cars": [
+        {
+          "name": "Corolla",
+          "year": 2013,
+          "price": 40570,
+          "carNumber": "7DVX130",
+          "ownerId": "wZ-iazIw9a"
+        }
+      ],
+      "cash": 35000
+    },
+    {
+      "name": "Toni Kelley",
+      "id": "cjqa1Wo_HB",
+      "cars": [
+        {
+          "name": "F250",
+          "year": 2020,
+          "price": 198500,
+          "carNumber": "1535604",
+          "ownerId": "cjqa1Wo_HB"
+        },
+        {
+          "name": "Hilux",
+          "year": 2005,
+          "price": 35005,
+          "carNumber": "7FZP131",
+          "ownerId": "cjqa1Wo_HB"
+        }
+      ],
+      "cash": 7000
+    },
+    {
+      "name": "Leonard Williamson",
+      "id": "cOynZO9gOB",
+      "cars": [
+        {
+          "name": "Impala",
+          "year": 2016,
+          "price": 65042,
+          "carNumber": "SXU657",
+          "ownerId": "cOynZO9gOB"
+        }
+      ],
+      "cash": 40541
+    },
+    {
+      "name": "Sheila Dean",
+      "id": "t32vzyM3CH",
+      "cars": [],
+      "cash": 15732
+    },
+    {
+      "name": "Ruth Brewer",
+      "id": "t32vzyM3CHz",
+      "cars": [
+        {
+          "name": "X6",
+          "year": 2020,
+          "price": 966500,
+          "ownerId": "t32vzyM3CHz"
+        },
+        {
+          "name": "Land Cruiser",
+          "year": 2020,
+          "price": 336300,
+          "carNumber": "8APN30",
+          "ownerId": "t32vzyM3CHz"
+        },
+        {
+          "name": "Romeo Julia",
+          "year": 2020,
+          "price": 275406,
+          "carNumber": "4VMF153",
+          "ownerId": "t32vzyM3CHz"
+        },
+        {
+          "name": "Explorer",
+          "year": 2020,
+          "price": 265200,
+          "carNumber": "85817L2",
+          "ownerId": "t32vzyM3CHz"
+        }
+      ],
+      "cash": 1547242
+    },
+    {
+      "name": "Amelia Hodges",
+      "id": "w63QxxskyJ",
+      "cars": [
+        {
+          "name": "X5",
+          "year": 2019,
+          "price": 578054,
+          "carNumber": "8ARB855",
+          "ownerId": "w63QxxskyJ"
+        },
+        {
+          "name": "Spider",
+          "year": 2012,
+          "price": 81520,
+          "carNumber": "B9371",
+          "ownerId": "w63QxxskyJ"
+        }
+      ],
+      "cash": 278542
+    },
+    {
+      "name": "Andy Warren",
+      "id": "8szcJE_XoB",
+      "cars": [
+        {
+          "name": "Highlander",
+          "year": 2018,
+          "price": 214503,
+          "carNumber": "5SES716",
+          "ownerId": "8szcJE_XoB"
+        }
+      ],
+      "cash": 125402
+    },
+    {
+      "name": "Sonia Valdez",
+      "id": "nNHs3Pmslf",
+      "cars": [
+        {
+          "name": "F250",
+          "year": 2020,
+          "price": 198500,
+          "carNumber": "E576840",
+          "ownerId": "nNHs3Pmslf"
+        },
+        {
+          "name": "Hilux",
+          "year": 2005,
+          "price": 35005,
+          "carNumber": "621VYB",
+          "ownerId": "nNHs3Pmslf"
+        }
+      ],
+      "cash": 7000
+    }
+  ],
+  "taxesAuthority": {
+    "totalTaxesPaid": 0,
+    "sumOfAllTransactions": 0,
+    "numberOfTransactions": 0
+  }
+}
