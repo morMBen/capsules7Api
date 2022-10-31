@@ -593,8 +593,8 @@
     }
   ],
   "taxesAuthority": {
-    "totalTaxesPaid": 0,
-    "sumOfAllTransactions": 0,
-    "numberOfTransactions": 0
+    "totalTaxesPaid": 84068,
+    "sumOfAllTransactions": 494523,
+    "numberOfTransactions": 3
   }
 }

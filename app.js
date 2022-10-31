@@ -129,6 +129,15 @@ app.get('/api/carMarket/customers/:id', (req, res) => {
     res.status(400).send({ error: e.message });
   }
 });
+app.get('/api/carMarket/tax', (req, res) => {
+  try {
+    const agencies = getCarMarket(2).taxesAuthority;
+
+    res.status(200).send(agencies);
+  } catch (e) {
+    res.status(400).send({ error: e.message });
+  }
+});
 
 app.listen(PORT, () => {
   console.log('listening...');
