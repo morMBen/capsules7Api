@@ -97,6 +97,38 @@ app.get('/api/carMarket/agencies', (req, res) => {
     res.status(400).send({ error: e.message });
   }
 });
+app.get('/api/carMarket/agencies/:id', (req, res) => {
+  try {
+    const agencies = getCarMarket(2).sellers;
+    const ress = agencies.find((e) => e.agencyId === req.params.id);
+
+    res.status(200).send(ress);
+  } catch (e) {
+    res.status(400).send({ error: e.message });
+  }
+});
+app.get('/api/carMarket/customers', (req, res) => {
+  try {
+    const agencies = getCarMarket(2).customers;
+    const ress = agencies.map(({ name, id }) => {
+      return { name, id };
+    });
+
+    res.status(200).send(ress);
+  } catch (e) {
+    res.status(400).send({ error: e.message });
+  }
+});
+app.get('/api/carMarket/customers/:id', (req, res) => {
+  try {
+    const agencies = getCarMarket(2).customers;
+    const ress = agencies.find((e) => e.id === req.params.id);
+
+    res.status(200).send(ress);
+  } catch (e) {
+    res.status(400).send({ error: e.message });
+  }
+});
 
 app.listen(PORT, () => {
   console.log('listening...');
