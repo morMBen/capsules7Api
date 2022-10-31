@@ -55,13 +55,13 @@ const getCarMarket = (num) => {
   }
 };
 //! Car object 1 | 2
-app.get('/api/carMarket/:num', (req, res) => {
-  try {
-    res.status(200).send(getCarMarket(req.params.num));
-  } catch (e) {
-    res.status(400).send({ error: e.message });
-  }
-});
+// app.get('/api/carMarket/:num', (req, res) => {
+//   try {
+//     res.status(200).send(getCarMarket(req.params.num));
+//   } catch (e) {
+//     res.status(400).send({ error: e.message });
+//   }
+// });
 
 const getCarImage = (brand, model) => {
   try {
@@ -80,6 +80,19 @@ app.get('/api/carMarket/img/:brand/:model', (req, res) => {
   const model = req.params.model.toLocaleLowerCase();
   try {
     res.status(200).send(getCarImage(brand, model));
+  } catch (e) {
+    res.status(400).send({ error: e.message });
+  }
+});
+
+app.get('/api/carMarket/agencies', (req, res) => {
+  try {
+    const agencies = getCarMarket(2).sellers;
+    const ress = agencies.map(({ agencyName, agencyId }) => {
+      return { agencyName, agencyId };
+    });
+
+    res.status(200).send(ress);
   } catch (e) {
     res.status(400).send({ error: e.message });
   }
